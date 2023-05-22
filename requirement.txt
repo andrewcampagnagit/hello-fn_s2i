@@ -1,1 +1,1 @@
-resilient-sdk
+Flask==2.0.3
